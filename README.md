@@ -7,4 +7,4 @@ The repo will be mainly organized by topic and datasets, as the idea is to apply
 ## Content
 
 - ### Machine Learning
-    - [Predictive Maintenance](https://github.com/robertosc/data-science-porfolio)
+    - [Predictive Maintenance](https://github.com/robertosc/data-science-porfolio/blob/main/MachineLearning/XGB_predictiveMaintenance.ipynb)
